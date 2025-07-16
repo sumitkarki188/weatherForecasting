@@ -34,5 +34,5 @@ A simple and elegant weather forecasting web app built with **HTML**, **CSS**, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/sumitkarki188/weatherForecasting.git
 cd weather-forecast-app
