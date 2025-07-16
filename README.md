@@ -23,7 +23,7 @@ A simple and elegant weather forecasting web app built with **HTML**, **CSS**, a
 
 ## 📷 Screenshots
 
-![Weather App Screenshot](./screenshots/Screenshot 2025-07-16 203439.png)
+![Weather App Screenshot](./Screenshot/Screenshot 2025-07-16 203439.png)
 
 ## 🌐 Live Demo
 
