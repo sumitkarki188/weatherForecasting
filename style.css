@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url("nature.gif");
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 600px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.5 );
+    margin-right: 200px;
+    box-shadow: 5px 5px 10px white;
+    padding: 10px;
+
+}
+.logoweather{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#search{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    background-color: rgb(138, 186, 110);
+}
+#temp{
+    font-size: 150px;
+    text-align: center;
+    color: white;
+    text-shadow:4px 4px 5px powderblue ;
+}
+.data{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(207, 207, 15);
+}
+#cel{
+    text-align: center;
+    font-size: 40px;
+    color: bisque;
+}

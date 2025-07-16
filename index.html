@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="getData()">
+    <video src=""></video>
+    <div class="box">
+        <input type="text" id="search" onchange="getData()" value="Pithoragarh">
+        <div>
+            <h1 id="temp"> 14<sup>o</sup></h1>
+            <p id="cel">Celcius</p>
+            <p class="data"> Wind Speed - <span id="ws">20</span></p>
+            <p class="data">Humidity- <span id="humidity">40</span></p>
+        </div>
+        <div class="logoweather">
+            <img width="320px" src="weather.png" alt="logo">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
