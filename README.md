@@ -1,4 +1,3 @@
-visit - https://weatherdash1.netlify.app/
 # 🌤 Weather Forecasting System
 
 A simple and elegant weather forecasting web app built with **HTML**, **CSS**, and **JavaScript** using the **OpenWeatherMap API**. This app fetches real-time weather data based on the user's input and displays weather information such as temperature, weather condition, humidity, and wind speed.
@@ -27,7 +26,7 @@ A simple and elegant weather forecasting web app built with **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-🔗 [View Live](https://your-netlify-url.netlify.app)  
+🔗 [View Live]( https://weatherdash1.netlify.app/)  
 *(Replace with your deployed site link)*
 
 ## 🔑 Getting Started
